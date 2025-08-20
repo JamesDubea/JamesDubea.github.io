@@ -1,6 +1,6 @@
 body {
-    background: rgb(125, 198, 205);
-    color: rgb(45, 45, 45);
+    background: rgb(41, 42, 43);
+    color: rgb(226, 87, 87);
     padding: 10px;
     font-family: Arial, sans-serif;
 }
@@ -22,7 +22,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: rgb(41, 42, 43);
     flex: 1;
     margin: 0;
 }
