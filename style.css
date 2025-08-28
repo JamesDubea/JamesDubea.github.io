@@ -95,11 +95,11 @@ h2, h3 {
 }
 
 #portfolio li:hover {
-  background: #eee;
+  background: rgb(239, 80, 41);
 }
 
 #portfolio a {
-  text-decoration: none;
+  text-decoration: rgb(239, 80, 41);
   color: #454545;
 }
 

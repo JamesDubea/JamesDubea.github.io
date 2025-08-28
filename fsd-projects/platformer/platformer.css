@@ -3,10 +3,11 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-image: url('https://t4.ftcdn.net/jpg/06/30/49/31/360_F_630493124_kCE1PSaqlIohavCqGwtyTdac05XNWmgO.jpg');
   margin: 20px;
 }
 
 img {
   display: none;
 }
+
