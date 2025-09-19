@@ -101,13 +101,13 @@ var positionY = 0;
     if (positionX < 0){
       speed *= -1
     }
-    positionY = positionY + speed;
+    positionY = positionY + speedY;
     if (positionY > boardWidth - 890 ){
-      speed *= -1
+      speedY *= -1
     }
     
     if (positionY < 0){
-      speed *= -1
+      speedY *= -1
     }
  moveBoxTo(positionX, positionY);
         
